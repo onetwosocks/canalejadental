@@ -1,3 +1,4 @@
+@media (max-width 790px) {
 .logo {
     display: inline-flex;
     align-items: center;
@@ -12,7 +13,7 @@
     object-fit: cover;
 
 }
-
+}
 .content {
   max-width: 49rem; 
   padding-top: 1rem;
