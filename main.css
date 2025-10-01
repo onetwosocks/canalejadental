@@ -228,7 +228,7 @@ a {
 @media only screen and (max-width: 640px) {
 .logo {
     position: absolute;
-    top: 35%;
+    top: 30%;
     left: 1%;
     width: 100%;
   }
