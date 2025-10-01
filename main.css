@@ -224,19 +224,19 @@ a {
 .icon-googlemaps {
   top: 50;
 }
-@media only screen and (max-width: 428px) {
+@media only screen and (max-width: 640px) {
 .logo {
     position: absolute;
     top: 25%;
-    left: 17%;
-    width: 80%;
+    left: 1%;
+    width: 100%;
   }
 }
-@media only screen and (min-width: 428px) {
+@media only screen and (min-width: 640px) {
 .logo {
     position: absolute;
     top: 20%;
-    left: 13%;
-    width: 50%;
+    left: 28%;
+    width: 45%;
   }
 }
