@@ -235,6 +235,7 @@ a {
 @media only screen and (min-width: 428px) {
 .logo {
     position: absolute;
+    display: grid;
     top: 20%;
     left: 13%;
     width: 80%;
