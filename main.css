@@ -229,7 +229,7 @@ a {
     position: absolute;
     top: 25%;
     left: 1%;
-    width: 100%;
+    width: 80%;
   }
 }
 @media only screen and (min-width: 428px) {
