@@ -224,7 +224,7 @@ a {
 .icon-googlemaps {
   top: 50;
 }
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 428px) {
 .logo {
     position: absolute;
     top: 25%;
@@ -232,7 +232,7 @@ a {
     width: 100%;
   }
 }
-@media only screen and (min-width: 640px) {
+@media only screen and (min-width: 428px) {
 .logo {
     position: absolute;
     top: 20%;
